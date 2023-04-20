@@ -2,9 +2,10 @@ import { defineUserConfig } from "vuepress";
 import { defaultTheme } from "vuepress";
 export default defineUserConfig({
     lang: 'en-US',
-    title: 'Hello VuePress',
+    title: 'Matt Winchester',
     description: 'VuePress Configuration Description',
     theme: defaultTheme({
+        logo: '/la.png',
         navbar: [
             {
                 text: 'Home',
