@@ -1,0 +1,1 @@
+import{_ as t,p as o,q as s,R as e,t as a}from"./framework-5866ffd3.js";const c={},r=e("h1",{id:"blog-post-b",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#blog-post-b","aria-hidden":"true"},"#"),a(" Blog post B")],-1),n=[r];function _(l,d){return o(),s("div",null,n)}const h=t(c,[["render",_],["__file","blogB.html.vue"]]);export{h as default};
