@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-4a260ee3","path":"/projects/tata.html","title":"TATA","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1682024447000,"contributors":[{"name":"latterarrays","email":"latterarrays@gmail.com","commits":1}]},"filePathRelative":"projects/tata.md"}');export{t as data};

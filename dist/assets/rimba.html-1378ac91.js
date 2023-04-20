@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-65badf40","path":"/projects/rimba.html","title":"RIMBA","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1682024447000,"contributors":[{"name":"latterarrays","email":"latterarrays@gmail.com","commits":1}]},"filePathRelative":"projects/rimba.md"}');export{t as data};

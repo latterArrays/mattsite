@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-7bab9132","path":"/projects/homelab.html","title":"Write up of homelab stuff","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1682024447000,"contributors":[{"name":"latterarrays","email":"latterarrays@gmail.com","commits":1}]},"filePathRelative":"projects/homelab.md"}');export{t as data};

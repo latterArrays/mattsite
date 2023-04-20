@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-0802e8ec","path":"/projects/quotai.html","title":"QuotAI","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1682024447000,"contributors":[{"name":"latterarrays","email":"latterarrays@gmail.com","commits":1}]},"filePathRelative":"projects/quotai.md"}');export{t as data};

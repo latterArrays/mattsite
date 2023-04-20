@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-47f50eac","path":"/projects/eldp.html","title":"ELDP","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1682024447000,"contributors":[{"name":"latterarrays","email":"latterarrays@gmail.com","commits":1}]},"filePathRelative":"projects/eldp.md"}');export{t as data};
