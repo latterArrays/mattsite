@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-0040cce8","path":"/projects/sd.html","title":"Senior Design Project - Next Gen Asset Tracker","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1682024447000,"contributors":[{"name":"latterarrays","email":"latterarrays@gmail.com","commits":1}]},"filePathRelative":"projects/sd.md"}');export{e as data};

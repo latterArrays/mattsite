@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-38a30c6d","path":"/blog/blogB.html","title":"Blog post B","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1682021973000,"contributors":[{"name":"latterarrays","email":"latterarrays@gmail.com","commits":1}]},"filePathRelative":"blog/blogB.md"}');export{t as data};
